@@ -1,7 +1,7 @@
 ## 👋 Hi there!  
 I'm Muzaqi Hatami. A passionate Software Engineer that believe technology can't be stopped by anything until the end of the world. Currently work as Senior Back End Engineer at one of leading digital bank in Indonesia. With over 7 years experience, I've had so many opportunity to work on various projects with different technologies.  
 
-## 💼 Expertise:
+## 💼 Expertise
 I specialize in building powerful and intuitive applications across multiple platforms, including mobile (Android and iOS) and web applications both front end and back end side. 
 
 I have extensive experience working on various fields, including marketplace solutions, utility tools, educational apps, management applications, company profiles, health apps, and many more. 
